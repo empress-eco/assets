@@ -1,5 +1,5 @@
 <div align="center">
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 <h1 align="center">Asset Management: Your Key to Streamlined Operations</h1>
 <p align="center">
 A sophisticated and intuitive tool for effective and efficient asset management.
